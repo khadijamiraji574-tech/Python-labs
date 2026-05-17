@@ -1,0 +1,1 @@
+print("khadija hassan miraji")
