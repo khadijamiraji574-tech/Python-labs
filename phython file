@@ -24,3 +24,5 @@ else:
 
 # Display result
 print("Result:", result)
+print("result")
+
